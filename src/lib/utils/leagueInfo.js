@@ -10,6 +10,7 @@ export const homepageText = `
 <p>Welcome to the Water Boarding for Fun Fantasy Football Homepage</p>
 <br>
 <p>Stan is the Greatest. Justin Wright sucks at Fantasy Football.</p>
+<p>Huge, huge thanks to u/nmelhado for sharing this. All credit to them!</p>
 
 `;
 
